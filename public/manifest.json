@@ -1,0 +1,42 @@
+{
+    "manifest_version": 2,
+    "name": "Daily Wiki",
+    "author":"Wikipals",
+    "version":"1.0",
+    "description":"Get a daily dose of Wiki",
+    "icons":{
+        "16":"1949128.jpg",
+        "48":"1949128.jpg",
+        "128":"1949128.jpg"
+    },
+    "chrome_url_overrides":{
+        "newtab": "index.html"
+         }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
