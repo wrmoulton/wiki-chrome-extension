@@ -8,6 +8,7 @@
         "16":"1949128.jpg",
         "48":"1949128.jpg",
         "128":"1949128.jpg"
+        // we need to make and insert our own logo here + the file, this is just a random jpg
     },
     "chrome_url_overrides":{
         "newtab": "index.html"
